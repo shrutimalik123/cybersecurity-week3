@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# Original course material, not redistributed
+cf_week_3_assignment_code.docx
+~$*
