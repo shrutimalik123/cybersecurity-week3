@@ -6,8 +6,8 @@ Coursework project on AI model security in cybersecurity. It simulates a data po
 
 | File | Description |
 | --- | --- |
-| `Week_3_Assignment_Data_Integrity_and_Model_Protection.docx` | Full write-up: Part 1 summary, Part 2 paper, APA references |
-| `Part_1_Data_Integrity_Analysis_Summary.docx` | Standalone Part 1 summary (about 137 words) |
+| `week3 assignment.docx` | Full write-up: Part 1 summary, Part 2 paper, APA references |
+| `part 1 summary.docx` | Standalone Part 1 summary (about 137 words) |
 | `Week 3 mail dataset.csv` | Original 20-email dataset (4 features plus `Spam_Label`) |
 | `Week 3 mail dataset - Poisoned Simulation.csv` | Dataset showing the poisoned training samples |
 | `Week 3 Phishing Email Dataset and Poisoning Results.xlsx` | Clean data, poisoned data, and evaluation metrics |
